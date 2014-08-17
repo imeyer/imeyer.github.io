@@ -1,0 +1,12 @@
+# Site settings
+title: imeyer
+email: ianmmeyer@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Things I want to write about..
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wtf.imeyer.io" # the base hostname & protocol for your site
+twitter_username: ianmeyer
+github_username:  imeyer
+
+# Build settings
+markdown: kramdown
